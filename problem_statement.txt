@@ -1,0 +1,15 @@
+Problem Statement: Text-Based To-Do List Manager
+
+In everyday life, individuals often need a simple way to record, track, and manage their tasks. 
+This console-based program will allow the user to add tasks, view pending tasks, mark tasks as completed, and delete tasks.
+
+Requirements:
+1. Add a new task with a description.
+2. Persist tasks so they are available after the program closes.
+3. Display tasks showing completed and pending status.
+4. Mark tasks completed.
+5. Simple text-based UI accessible via screen reader.
+
+Storage: CSV file (tasks.csv) for simplicity and portability.
+
+This project is a practice exercise for Python basics, file handling, error handling, and version control (Git/GitHub).

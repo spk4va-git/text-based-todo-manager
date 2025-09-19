@@ -1,0 +1,15 @@
+Alternative Algorithms for To-Do List Manager
+
+Algorithm 1: List-Based Approach
+- Load CSV into a Python list of dictionaries.
+- For any change, overwrite the CSV with the list contents.
+Pros: Simple, easy to implement.
+Cons: Not efficient for very large datasets.
+
+Algorithm 2: Dictionary/ID-Based Approach
+- Use unique IDs as keys in a dictionary and update specific rows.
+Pros: Efficient, easier single-row updates.
+Cons: More complex to implement for beginners.
+
+Chosen Algorithm (for this project): Algorithm 1 (List-Based Approach)
+Reason: Simpler for a single-user console project and ideal for step-by-step learning.
